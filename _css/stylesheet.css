@@ -1,0 +1,32 @@
+html, body{
+  background: #000000;
+  margin: 0;
+}
+h1, h2, p {
+	margin: 0;
+	padding: 0;
+}
+h1, h2, {
+	color: rgb(107, 107, 132);
+}
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 120%;
+	width: 80%;
+  color: rgb(180, 180, 180);
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2.5% 2.5% 0;
+	background: black;
+	line-height: 1.8;
+}
+h1 {
+	font: 3.6em Verdana, Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: powderblue;
+}
+h2 {
+	font: 3.0em Georgia, "Times New Roman", Times, serif;
+	margin-bottom: .2em;
+  color: white;
+}
